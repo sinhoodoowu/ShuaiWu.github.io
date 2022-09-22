@@ -12,7 +12,7 @@ HEllO WORLD! My name is Shuai Wu （In Chinese, 吴帅). I'm a Second year Ph.D 
 
 Previously, I had four-year industry experience in Exxon Mobil and C&D Technology in Shanghai, where i got multiple indusry friends and expertise in different materials area.
 
-I was born in Xiangyang.
+I was born in [Xiangyang](https://en.wikipedia.org/wiki/Xiangyang).
 
 A data-driven personal website
 ======
