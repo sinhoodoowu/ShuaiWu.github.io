@@ -14,5 +14,5 @@ Previously, I had four-year industry experience in Exxon Mobil and C&D Technolog
 
 I was born in [Xiangyang](https://en.wikipedia.org/wiki/Xiangyang)(襄阳, literally the north side of the Xiang (Han) River), a beautiful city lying by the Han River in central part of China and lived there for most of the time before graduating from Xiangyang No.4 High School and went to college in 2013..
 
-###A data-driven personal website
+[News] I am looking forward to seeking for postdoc positions after graduation around 2025. Pls reach out to me(szw0151@auburn.edu).
 ======
