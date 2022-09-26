@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-HEllO WORLD! My name is Shuai Wu （In Chinese, 吴帅). I'm a Second year Ph.D student at Auburn University. I obtained my bachelor degree from [Department of Resources and Materials, Northeastern University] in 2017.
+HEllO WORLD! My name is Shuai Wu（In Chinese, 吴帅). I'm a Second year Ph.D student at Auburn University. I obtained my bachelor degree from [Department of Resources and Materials, Northeastern University] in 2017.
 
 Previously, I had four-year industry experience in Exxon Mobil and C&D Technology in Shanghai, where i got multiple industry friends and experts in different materials area.
 
