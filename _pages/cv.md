@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Materials Science And Engineering, Northeastern University, 2017
+* Ph.D in Materials Engineering, Auburn University, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2017: Research Specialist
+  * Exxonmobil
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Abubakar Salfdin
 
-* Fall 2015: Research Assistant
-  * Github University
+* Fall 2019: Product Engineer
+  * C&D Technology
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Qian Du
   
 Skills
 ======
